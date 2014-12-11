@@ -1,0 +1,5 @@
+﻿asdf	0
+barely	-1
+little	-1
+rarely	-1
+not	-1

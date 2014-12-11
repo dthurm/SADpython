@@ -1,0 +1,7 @@
+﻿asdf	0
+very	2
+really	1.8
+exponentially	2
+fully	1.8
+so	1.5
+super	2
